@@ -1,0 +1,12 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: *
+Allow: /
+Disallow: /js/
+Disallow: /css/
+Disallow: /img/
+Disallow: /lib/
+Disallow: /live2dw/
+
+Sitemap: http://blog.sakurink.eu.org/sitemap.xml

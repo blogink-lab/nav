@@ -23,4 +23,4 @@ Disallow: /css/
 Disallow: /img/
 Disallow: /lib/
 
-Sitemap: http://nav.sakurink.eu.org/sitemap.xml
+Sitemap: http://nav.lolic.us.kg/sitemap.xml
